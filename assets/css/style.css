@@ -172,14 +172,14 @@ background: url("../images/gravel/gravel.png");
         width: 100%;
       }
     
-      .auth-image {
+      .imagespec {
         width: 100%;
         margin-bottom: 20px;
       }
     }
     @media only screen and (max-width: 768px) {
-      .main-section,
-      .sidebar {
+      .main-section
+       {
         max-width: 100%;
       }
     
@@ -203,13 +203,10 @@ background: url("../images/gravel/gravel.png");
         float: right;
       }
     
-      .auth-image {
+      .imagespec {
         width: 50%;
       }
     
-      .sidebar {
-        margin-bottom: 40px;
-      }
     }
     
     @media only screen and (max-width: 640px) {
@@ -219,7 +216,7 @@ background: url("../images/gravel/gravel.png");
         margin-bottom: 20px;
       }
     
-      header .container {
+      header.container {
         padding: 0;
       }
     
@@ -229,7 +226,7 @@ background: url("../images/gravel/gravel.png");
     
       #logo,
       .work,
-      .auth-image {
+      .imagespec {
         width: 100%;
       }
     
